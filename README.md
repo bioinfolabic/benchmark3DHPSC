@@ -1,4 +1,4 @@
-# benchmark3DHPSC
+# Benchmark 3D-HP-SC
 
 Requeriments:
 
