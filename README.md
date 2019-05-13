@@ -22,6 +22,10 @@ The program developed to extract the information and convert to the HP sequence 
 
 ![alt text](https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alg.png )
 
+![Hydrophobicity Classification - Alberts](https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alberts.png
+)
+
+
 
 # How to execute the code:
 
@@ -42,6 +46,29 @@ $ java -Djava.library.path=<CPLEX_PATH> -jar Protein.jar <INPUT_FILE> 1 3 1 <INI
 # Example
 
 java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles10_4.1 -jar Protein.jar "INPUT/protein_data_2GB1.txt" 1 3 1 "no" > output_2GB1.txt
+
+# Results
+
+<div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1DPK.png" width="200" height="200">  
+ 
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/2IWJ.png" width="200" height="200">  
+
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1JBL.png" width="200" height="200">  
+ 
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1M23.png" width="200" height="200">  
+
+\
+
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/2IWJ.png" width="200" height="200">  
+ 
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/2LKE.png" width="200" height="200">  
+
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/2NVJ.png" width="200" height="200">  
+ 
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/B0Y.png" width="200" height="200">  
+</div>
+
 
 # Related Works
 ```
