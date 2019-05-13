@@ -20,10 +20,18 @@ The codes used for extracting the biological sequence from PDB and for the conve
 
 The program developed to extract the information and convert to the HP sequence is in the pdb3.py file, the pseudo-code is shown in the figure below. The hydrophobicity classification list is contained in the file alberts.txt, however, it can be modified if the user needs.
 
-![alt text](https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alg.png )
 
-![Hydrophobicity Classification - Alberts](https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alberts.png
-)
+<div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alg.png" width="350" height="350">  
+ 
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alberts.png" width="350" height="350">  
+
+</div>
+
+
+The table below shows the 19 sequences used for the Protein Structure Prediction problem.
+
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/sequences.png" width="400" height="400">  
 
 
 
