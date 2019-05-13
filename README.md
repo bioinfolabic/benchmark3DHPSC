@@ -12,7 +12,23 @@ Requeriments:
 
 6) Rasmol 2.7.5.2
 
-How to execute the code:
+# How to execute the code:
 
-java -Djava.library.path=/home/users/leandro/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles10_4.1 -jar Protein.jar "INPUT/protein_data_Unger273d.10.txt" 1 3 1 "Unger10_GA_out_version3.txt" > output_protein_data_Unger10_GeneticAlgorithm_version3.txt
+$ java -Djava.library.path=<CPLEX_PATH> -jar Protein.jar <INPUT_FILE> 1 3 1 <INITIAL_STRUCUTRE> > <OUTPUT_FILE>
+
+# Dictionary:
+
+- CPLEX_PATH: Path of the cplex library, in this work we use version 10.4.1.
+
+- Protein.jar: Executable program.
+
+- INPUT_FILE: File with hydrophobic-polar sequence information.
+
+- INITIAL_STRUCUTRE: It is possible to insert an initial structure for the optimization, otherwise, it can be replaced by the string "no".
+
+- OUTPUT_FILE (optional): In this example, we save the information obtained from the I/O to a file.
+
+# Example
+
+java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles10_4.1 -jar Protein.jar "INPUT/protein_data_2GB1.txt" 1 3 1 "no" > output_2GB1.txt
 
