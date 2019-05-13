@@ -2,15 +2,26 @@
 
 Requeriments:
 
-1) Python
+1) Python 2.7
 
-2) Java
+2) biopython (https://biopython.org/)
 
-3) IBM CPLEX
+3) Java
+
+4) IBM CPLEX
 
 5) Linux 14.04 LTS
 
 6) Rasmol 2.7.5.2
+
+# Protein Sequence Dataset
+
+The codes used for extracting the biological sequence from PDB and for the conversion to the HP sequence are contained in the EXT_CONV folder.
+
+The program developed to extract the information and convert to the HP sequence is in the pdb3.py file, the pseudo-code is shown in the figure below. The hydrophobicity classification list is contained in the file alberts.txt, however, it can be modified if the user needs.
+
+![alt text](https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alg.png )
+
 
 # How to execute the code:
 
