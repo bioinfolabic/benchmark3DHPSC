@@ -10,7 +10,7 @@ Requeriments:
 
 4) IBM CPLEX (https://ibm.onthehub.com)
 
-5) Linux 14.04 LTS
+5) Linux 14.04 LTS or higher
 
 6) Rasmol 2.7.5.2 (optional for drawing the proteins structure predicted)
 
@@ -55,7 +55,7 @@ $ java -Djava.library.path=<CPLEX_PATH> -jar Protein.jar <INPUT_FILE> 1 3 1 <INI
 
 java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles10_4.1 -jar Protein.jar "INPUT/protein_data_2GB1.txt" 1 3 1 "no" > output_2GB1.txt
 
-*make sure that you have been installed dependencies required.
+*make sure that you have been installed the dependencies required.
 
 # Results
 
