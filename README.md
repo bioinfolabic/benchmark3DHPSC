@@ -54,6 +54,7 @@ $ java -Djava.library.path=<CPLEX_PATH> -jar Protein.jar <INPUT_FILE> 1 3 1 <INI
 # Example
 
 java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles10_4.1 -jar Protein.jar "INPUT/protein_data_2GB1.txt" 1 3 1 "no" > output_2GB1.txt
+
 *make sure that you have been installed dependencies required.
 
 # Results
