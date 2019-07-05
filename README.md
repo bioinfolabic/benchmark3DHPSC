@@ -16,22 +16,18 @@ Requeriments:
 
 # Protein Sequence Dataset
 
-The codes used for extracting the biological sequence from PDB and for the conversion to the HP sequence are contained in the EXT_CONV folder.
+The codes used for extracting the biological sequence from PDB and for the conversion to the HP sequence are contained in the EXT_CONV folder. The developed program to extract the information and convert the amino acids sequence to the HP sequence is in the pdb3.py file, as show in the Algorithm 1. 
 
-The program developed to extract the information and convert to the HP sequence is in the pdb3.py file, the pseudo-code is shown in the figure below. The hydrophobicity classification list is contained in the file alberts.txt, however, it can be modified if the user needs.
-
-
-<div id="fig:subfigures" class="subfigures" data-caption="Caption for figure" class="center">
 <img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alg.png" width="350" height="350">  
- 
-<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alberts.png" width="350" height="350">  
 
-</div>
+The hydrophobicity classification list is contained in the file alberts.txt,as show in the Table 3. However, it can be modified for other proposes.
+
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/EXT_CONV/alberts.png" width="200" height="200">  
 
 
-The table below shows the 19 sequences used for the Protein Structure Prediction problem.
+Table 2 shows the 17 sequences used for the Protein Structure Prediction problem.
 
-<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/sequences.png" width="400" height="400" class="center">  
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/sequences.png" width="640" height="288" class="center">  
 
 
 
@@ -59,7 +55,7 @@ java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles1
 
 # Results
 
-The following are some proteins structure predicted (1DPK, 2IWJ, 1JBL, 1M23, 2IWJ, 2LKE, 2NVJ and 2BOY)  by the integer programming method with the 3D-HP-SC model. Subsequently, in the table, the results of the benchmarks are presented, showing the PDB ID of the protein, sequence size, hydrophobic-hydrophobic contact quantity, hydrophobic number of elements in the sequence, the computational time required for the prediction and predicted structure.
+The following are some proteins structure predicted (1DPQ, 2IWJ, 1JBL, 1M23, 2IWJ, 2LKE, 2NVJ and 2BOY)  by the integer programming method with the 3D-HP-SC model. Subsequently, in the table, the results of the benchmarks are presented, showing the PDB ID of the protein, sequence size, hydrophobic-hydrophobic contact quantity, hydrophobic number of elements in the sequence, the computational time required for the prediction and predicted structure.
 
 <div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
 <img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1DPK.png" width="200" height="200">  
@@ -70,7 +66,6 @@ The following are some proteins structure predicted (1DPK, 2IWJ, 1JBL, 1M23, 2IW
  
 <img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1M23.png" width="200" height="200">  
 
-\
 
 <img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/2IWJ.png" width="200" height="200">  
  
@@ -82,7 +77,7 @@ The following are some proteins structure predicted (1DPK, 2IWJ, 1JBL, 1M23, 2IW
 </div>
 
 
-<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/results.png" width="600" height="400" class="center">  
+<img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/results.png" width="685" height="335" class="center">  
 
 # Related Works
 ```
