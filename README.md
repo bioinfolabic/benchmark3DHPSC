@@ -1,4 +1,4 @@
-# Biological Sequence for the Protein Structure Problem with Integer Programming using 3D-HP-SC model
+# A Benchmark of Optimally Folded Protein Structures  Using the 3D-HP-SC Model and Integer Programming
 
 Requeriments:
 
