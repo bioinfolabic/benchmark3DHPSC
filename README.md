@@ -14,6 +14,13 @@ Requeriments:
 
 6) Rasmol 2.7.5.2 (optional for drawing the proteins structure predicted)
 
+## directories
+ - EXT_CONV/  program and file to obtain the HP sequence.
+ - IMG/       figures and tables.
+ - INPUT/     input files used in the experiments.
+ - OUTPUT/    output files produced by the integer programming for the Protein Structure Prediction.
+ - SRC/       integer programming binary code.
+
 # Protein Sequence Dataset
 
 The codes used for extracting the biological sequence from PDB and for the conversion to the HP sequence are contained in the EXT_CONV folder. The developed program to extract the information and convert the amino acids sequence to the HP sequence is in the pdb3.py file, as show in the Algorithm 1. 
