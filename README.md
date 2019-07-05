@@ -32,9 +32,11 @@ Table 2 shows the 17 sequences used for the Protein Structure Prediction problem
 
 
 # How to execute the code:
+The executable file (Protein.jar) is present in the SRC folder.
 
+example:
 $ java -Djava.library.path=<CPLEX_PATH> -jar Protein.jar <INPUT_FILE> 1 3 1 <INITIAL_STRUCUTRE> > <OUTPUT_FILE>
-*Certifique-se de ter instalado as dependências necessárias. 
+*Make sure you have installed the required dependencies.
 # Dictionary:
 
 - CPLEX_PATH: Path of the cplex library, in this work we use version 10.4.1.
