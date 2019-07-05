@@ -55,7 +55,7 @@ java -Djava.library.path=/home/users/ILOG/CPLEX_Studio125/cplex/bin/x86-64_sles1
 
 # Results
 
-The following are some proteins structure predicted (1DPQ, 2IWJ, 1JBL, 1M23, 2IWJ, 2LKE, 2NVJ and 2BOY)  by the integer programming method with the 3D-HP-SC model. Subsequently, in the table, the results of the benchmarks are presented, showing the PDB ID of the protein, sequence size, hydrophobic-hydrophobic contact quantity, hydrophobic number of elements in the sequence, the computational time required for the prediction and predicted structure.
+Proteins structure predicted (1DPQ, 2IWJ, 1JBL, 1M23, 2IWJ, 2LKE, 2NVJ and 2BOY)  by the integer programming method with the 3D-HP-SC model are show bellow. Subsequently, in the Table 4, the results of the benchmarks are presented, showing the PDB ID of the protein, sequence size, hydrophobic-hydrophobic contact quantity, hydrophobic number of elements in the sequence, the computational time required for the prediction and predicted structure. 
 
 <div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
 <img src="https://github.com/bioinfolabic/benchmark3DHPSC/blob/master/IMG/1DPK.png" width="200" height="200">  
