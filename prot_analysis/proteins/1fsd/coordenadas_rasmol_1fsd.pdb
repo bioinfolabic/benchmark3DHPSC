@@ -1,0 +1,113 @@
+ATOM      1  CA  LYS A   1       3.000  12.000   9.000  1.00  0.00          C
+ATOM      2  N   LYS A   1       3.000  12.000   6.000  1.00  0.00          N
+ATOM      3  CA  LYS A   2       0.000  12.000   9.000  1.00  0.00          C
+ATOM      4  N   LYS A   2       0.000  12.000  12.000  1.00  0.00          N
+ATOM      5  CA  LYS A   3       0.000  12.000   6.000  1.00  0.00          C
+ATOM      6  N   LYS A   3       0.000  12.000   3.000  1.00  0.00          N
+ATOM      7  CA  LYS A   4       0.000   9.000   6.000  1.00  0.00          C
+ATOM      8  N   LYS A   4       0.000   9.000   3.000  1.00  0.00          N
+ATOM      9  CA  GLY A   5       0.000   6.000   6.000  1.00  0.00          C
+ATOM     10  O   GLY A   5       0.000   6.000   9.000  1.00  0.00          O
+ATOM     11  CA  LYS A   6       0.000   6.000   3.000  1.00  0.00          C
+ATOM     12  N   LYS A   6       0.000   3.000   3.000  1.00  0.00          N
+ATOM     13  CA  GLY A   7       3.000   6.000   3.000  1.00  0.00          C
+ATOM     14  O   GLY A   7       3.000   6.000   6.000  1.00  0.00          O
+ATOM     15  CA  LYS A   8       6.000   6.000   3.000  1.00  0.00          C
+ATOM     16  N   LYS A   8       6.000   6.000   0.000  1.00  0.00          N
+ATOM     17  CA  GLY A   9       9.000   6.000   3.000  1.00  0.00          C
+ATOM     18  O   GLY A   9       9.000   6.000   6.000  1.00  0.00          O
+ATOM     19  CA  LYS A  10       9.000   3.000   3.000  1.00  0.00          C
+ATOM     20  N   LYS A  10       9.000   0.000   3.000  1.00  0.00          N
+ATOM     21  CA  LYS A  11       6.000   3.000   3.000  1.00  0.00          C
+ATOM     22  N   LYS A  11       6.000   0.000   3.000  1.00  0.00          N
+ATOM     23  CA  GLY A  12       3.000   3.000   3.000  1.00  0.00          C
+ATOM     24  O   GLY A  12       3.000   3.000   6.000  1.00  0.00          O
+ATOM     25  CA  LYS A  13       3.000   3.000   0.000  1.00  0.00          C
+ATOM     26  N   LYS A  13       3.000   0.000   0.000  1.00  0.00          N
+ATOM     27  CA  LYS A  14       3.000   6.000   0.000  1.00  0.00          C
+ATOM     28  N   LYS A  14       0.000   6.000   0.000  1.00  0.00          N
+ATOM     29  CA  LYS A  15       3.000   9.000   0.000  1.00  0.00          C
+ATOM     30  N   LYS A  15       0.000   9.000   0.000  1.00  0.00          N
+ATOM     31  CA  LYS A  16       6.000   9.000   0.000  1.00  0.00          C
+ATOM     32  N   LYS A  16       9.000   9.000   0.000  1.00  0.00          N
+ATOM     33  CA  LYS A  17       6.000   9.000   3.000  1.00  0.00          C
+ATOM     34  N   LYS A  17       9.000   9.000   3.000  1.00  0.00          N
+ATOM     35  CA  GLY A  18       6.000   9.000   6.000  1.00  0.00          C
+ATOM     36  O   GLY A  18       6.000   6.000   6.000  1.00  0.00          O
+ATOM     37  CA  LYS A  19       6.000   9.000   9.000  1.00  0.00          C
+ATOM     38  N   LYS A  19       3.000   9.000   9.000  1.00  0.00          N
+ATOM     39  CA  LYS A  20       6.000   9.000  12.000  1.00  0.00          C
+ATOM     40  N   LYS A  20       9.000   9.000  12.000  1.00  0.00          N
+ATOM     41  CA  GLY A  21       6.000   6.000  12.000  1.00  0.00          C
+ATOM     42  O   GLY A  21       6.000   6.000   9.000  1.00  0.00          O
+ATOM     43  CA  GLY A  22       3.000   6.000  12.000  1.00  0.00          C
+ATOM     44  O   GLY A  22       3.000   6.000   9.000  1.00  0.00          O
+ATOM     45  CA  LYS A  23       0.000   6.000  12.000  1.00  0.00          C
+ATOM     46  N   LYS A  23       0.000   9.000  12.000  1.00  0.00          N
+ATOM     47  CA  LYS A  24       0.000   3.000  12.000  1.00  0.00          C
+ATOM     48  N   LYS A  24       0.000   3.000   9.000  1.00  0.00          N
+ATOM     49  CA  GLY A  25       3.000   3.000  12.000  1.00  0.00          C
+ATOM     50  O   GLY A  25       3.000   3.000   9.000  1.00  0.00          O
+ATOM     51  CA  LYS A  26       6.000   3.000  12.000  1.00  0.00          C
+ATOM     52  N   LYS A  26       6.000   0.000  12.000  1.00  0.00          N
+ATOM     53  CA  GLY A  27       6.000   3.000   9.000  1.00  0.00          C
+ATOM     54  O   GLY A  27       6.000   3.000   6.000  1.00  0.00          O
+ATOM     55  CA  LYS A  28       9.000   3.000   9.000  1.00  0.00          C
+ATOM     56  N   LYS A  28       9.000   3.000  12.000  1.00  0.00          N
+CONECT    1    3
+CONECT    1    2
+CONECT    3    5
+CONECT    3    4
+CONECT    5    7
+CONECT    5    6
+CONECT    7    9
+CONECT    7    8
+CONECT    9   11
+CONECT    9   10
+CONECT   11   13
+CONECT   11   12
+CONECT   13   15
+CONECT   13   14
+CONECT   15   17
+CONECT   15   16
+CONECT   17   19
+CONECT   17   18
+CONECT   19   21
+CONECT   19   20
+CONECT   21   23
+CONECT   21   22
+CONECT   23   25
+CONECT   23   24
+CONECT   25   27
+CONECT   25   26
+CONECT   27   29
+CONECT   27   28
+CONECT   29   31
+CONECT   29   30
+CONECT   31   33
+CONECT   31   32
+CONECT   33   35
+CONECT   33   34
+CONECT   35   37
+CONECT   35   36
+CONECT   37   39
+CONECT   37   38
+CONECT   39   41
+CONECT   39   40
+CONECT   41   43
+CONECT   41   42
+CONECT   43   45
+CONECT   43   44
+CONECT   45   47
+CONECT   45   46
+CONECT   47   49
+CONECT   47   48
+CONECT   49   51
+CONECT   49   50
+CONECT   51   53
+CONECT   51   52
+CONECT   53   55
+CONECT   53   54
+CONECT   55   57
+CONECT   55   56
+END

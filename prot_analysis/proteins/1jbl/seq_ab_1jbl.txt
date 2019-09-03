@@ -1,0 +1,18 @@
+Number of residues of the protein
+14
+AB -10 sequence
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+break line
