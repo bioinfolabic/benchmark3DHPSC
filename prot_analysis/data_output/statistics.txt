@@ -1,0 +1,5 @@
+Mean of all euclidean distances:11.88425986259572
+Maximum euclidean distance:39.579647825618665
+Maximum euclidean distance:36.36876001460594
+Minimum euclidean distance:2.8826196419229517
+Standard deviation of all euclidean distances:6.623636656645671
